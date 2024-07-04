@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+body {
+    background-color: rgb(240, 236, 236);
+}
+
+header {
+    background-color: white;
+    box-shadow: 0px 4px 8.7px 0px rgba(0, 0, 0, 0.25);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.header__container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+a {
+    font-size: 40px;
+    color: black;
+}
+
+.button {
+    border-radius: 20px;
+    font-size: 20px;
+    color: #EF400F;
+    padding: 22px 16px;
+    background-color: white;
+    border: 1px solid #EF400F;
+
+
+}
+
+h1 {
+    color: blue;
+
+}
+
+.yyy {
+    display: flex;
+    gap: 20px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
+
+.chap {
+    display: flex;
+}
+
+.Magazin {
+    width: 290px;
+    height: 290px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0px 4px 13.3px 0px rgba(0, 0, 0, 0.25);
+    padding: 44px 52px 128px 54px;
+
+
+    font-size: 20px;
+}
+
+.fara {
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.maes {
+    font-size: 20px;
+}
+
+.fut {
+    background-color: white;
+
+
+}
+
+.bo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.july {
+    text-decoration: underline;
+}
